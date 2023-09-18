@@ -1,4 +1,4 @@
-# Excel_Vrinda-sales-data-analysis
+# Excel_Vrinda-store-sales-data-analysis
 Provides a holistic view of the e-commerce Sales
 🎯 𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 -
 
